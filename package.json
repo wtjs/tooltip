@@ -21,6 +21,7 @@
     "devDependencies": {
         "@babel/cli": "^7.0.0-beta.53",
         "@babel/core": "^7.0.0-beta.53",
+        "@babel/plugin-proposal-class-properties": "^7.0.0-beta.53",
         "@babel/preset-env": "^7.0.0-beta.53",
         "@babel/preset-react": "^7.0.0-beta.53",
         "babel-eslint": "^8.2.6",
@@ -35,5 +36,8 @@
         "prettier": "^1.13.7",
         "react": "^16.4.1",
         "react-dom": "^16.4.1"
+    },
+    "dependencies": {
+        "prop-types": "^15.6.2"
     }
 }
