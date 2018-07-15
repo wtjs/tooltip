@@ -1,0 +1,12 @@
+{
+    "name": "@wtjs/tooltip",
+    "description": "Light-weight tooltip component for react ecosystem",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:wtjs/tooltip.git",
+    "authors": [
+        "Deepak Grover <deepakgrover333@gmail.com> (https://github.com/metagrover)",
+        "Divyanshu Maithani <div.blackcat@gmail.com> (https://github.com/divyanshu013)"
+    ],
+    "license": "MIT"
+}
