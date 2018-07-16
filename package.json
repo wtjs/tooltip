@@ -11,8 +11,10 @@
     "license": "MIT",
     "scripts": {
         "start": "docz dev",
-        "build:lib": "babel src --out-dir lib",
-        "build:docs": "docz build"
+        "build:lib": "babel src --out-dir lib --ignore __tests__",
+        "build:docs": "docz build",
+        "lint": "eslint .",
+        "test": "jest"
     },
     "peerDependencies": {
         "react": ">=16.2.0",
@@ -24,18 +26,23 @@
         "@babel/plugin-proposal-class-properties": "^7.0.0-beta.53",
         "@babel/preset-env": "^7.0.0-beta.53",
         "@babel/preset-react": "^7.0.0-beta.53",
+        "babel-core": "^7.0.0-bridge.0",
         "babel-eslint": "^8.2.6",
+        "babel-jest": "^23.4.0",
         "docz": "^0.5.8",
         "eslint": "^5.1.0",
         "eslint-config-airbnb": "^17.0.0",
         "eslint-config-prettier": "^2.9.0",
         "eslint-plugin-import": "^2.13.0",
+        "eslint-plugin-jest": "^21.17.0",
         "eslint-plugin-jsx-a11y": "^6.1.1",
         "eslint-plugin-prettier": "^2.6.2",
         "eslint-plugin-react": "^7.10.0",
+        "jest": "^23.4.1",
         "prettier": "^1.13.7",
         "react": "^16.4.1",
-        "react-dom": "^16.4.1"
+        "react-dom": "^16.4.1",
+        "react-testing-library": "^4.1.2"
     },
     "dependencies": {
         "prop-types": "^15.6.2"

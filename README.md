@@ -17,7 +17,7 @@ import tooltip from '@wtjs/tooltip';
     Hover me
 </Tooltip>
 
-<Tooltip render={() => <div>Hi I'm a tooltip</div>}>
+<Tooltip render={() => <div>Hi I am a tooltip</div>}>
     Hover me
 </Tooltip>
 ```

@@ -1,10 +1,16 @@
 module.exports = {
     parser: 'babel-eslint',
-    plugins: ['react', 'prettier'],
+    plugins: ['react', 'prettier', 'jest'],
     env: {
         browser: true,
     },
-    extends: ['airbnb', 'plugin:prettier/recommended', 'prettier/react', 'prettier/standard'],
+    extends: [
+        'airbnb',
+        'plugin:prettier/recommended',
+        'prettier/react',
+        'prettier/standard',
+        'plugin:jest/recommended',
+    ],
     rules: {
         indent: 0,
 
