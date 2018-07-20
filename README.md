@@ -1,5 +1,7 @@
 # @wtjs/tooltip
 
+<p style="font-size:72px;text-align:center">🌀</p>
+
 Light-weight tooltip component for react powered by portals 🌀
 
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
