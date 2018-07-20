@@ -2,6 +2,8 @@
 
 Light-weight tooltip component for react powered by portals 🌀
 
+[![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
+
 ## Installation
 
 ```bash

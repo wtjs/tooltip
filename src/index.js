@@ -101,6 +101,8 @@ export default class Tooltip extends Component {
 }
 
 Tooltip.propTypes = {
+    /** Tooltip content */
     render: oneOfType([node, string]).isRequired,
+    /** Wrapped node */
     children: node.isRequired,
 };
