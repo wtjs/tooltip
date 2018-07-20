@@ -1,8 +1,12 @@
-# @wtjs/tooltip
+<div align="center">
+<h1>@wtjs/tooltip</h1>
 
-<p style="font-size:72px;text-align:center">🌀</p>
+<a href="https://www.emojione.com/emoji/1f300">
+<img height="128" width="128" alt="Portal" src="docs/portal.png" />
+</a>
 
-Light-weight tooltip component for react powered by portals 🌀
+<p>Light-weight tooltip component for react powered by portals 🌀</p>
+</div>
 
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
