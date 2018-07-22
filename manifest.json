@@ -1,8 +1,8 @@
 {
-  "vendors.js": "/tooltip/static/js/vendors.cb4fdadb.js",
-  "runtime~app.js": "/tooltip/static/js/runtime~app.2164602d.js",
-  "docs-index.js": "/tooltip/static/js/docs-index.37009a48.js",
-  "docs-tooltip.js": "/tooltip/static/js/docs-tooltip.f3f31a7a.js",
-  "app.js": "/tooltip/static/js/app.51eadb02.js",
-  "index.html": "/tooltip/index.html"
+  "app.js": "/static/js/app.js",
+  "docs-index.js": "/static/js/docs-index.js",
+  "docs-tooltip.js": "/static/js/docs-tooltip.js",
+  "runtime~app.js": "/static/js/runtime~app.js",
+  "vendors.js": "/static/js/vendors.js",
+  "index.html": "/index.html"
 }
