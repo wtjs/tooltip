@@ -19,7 +19,7 @@ yarn add @wtjs/tooltip
 ## Usage
 
 ```js
-import tooltip from '@wtjs/tooltip';
+import Tooltip from '@wtjs/tooltip';
 
 <Tooltip render="Hi, I'm a tooltip">
     Hover me
