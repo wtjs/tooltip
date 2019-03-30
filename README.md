@@ -8,6 +8,8 @@
 <p>Light-weight tooltip component for react powered by portals 🌀</p>
 </div>
 
+[Checkout the video series here](https://www.youtube.com/playlist?list=PLMV09mSPNaQmFLPyrfFtpUdClVfutjF5G)
+
 [![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
 
 ## Installation
